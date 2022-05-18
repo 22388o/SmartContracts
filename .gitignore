@@ -1,0 +1,14 @@
+node_modules
+.next
+yarn.lock
+.DS_Store
+
+node_modules
+.env
+coverage
+coverage.json
+typechain
+
+#Hardhat files
+cache
+artifacts
